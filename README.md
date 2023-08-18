@@ -49,4 +49,4 @@
 
   </div>
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=gradient)
