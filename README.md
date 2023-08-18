@@ -49,5 +49,4 @@
 
   </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&reversal=true&fontSize=70" />
-
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
