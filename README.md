@@ -49,5 +49,5 @@
 
   </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving@&reversal=true&color=gradient&height=250&section=header&fontSize=70" />
 
